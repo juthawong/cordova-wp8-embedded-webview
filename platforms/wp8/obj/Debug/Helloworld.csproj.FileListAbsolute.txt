@@ -1,0 +1,15 @@
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\Bin\Debug\Background.png
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\Bin\Debug\com.hello.dll
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\Bin\Debug\com.hello.pdb
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\obj\Debug\DetailPage.g.cs
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\obj\Debug\com.hello.g.resources
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\obj\Debug\com.hello.dll
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\obj\Debug\com.hello.pdb
+C:\Users\peacemoon\Development\Test\hello\platforms\wp8\obj\Debug\XapCacheFile.xml
